@@ -1,0 +1,1 @@
+This is a test of GitHub commiting as prescribed by the Odin Project
